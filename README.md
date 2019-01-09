@@ -2,6 +2,7 @@
 参考start spring io 搞一个一个mybatis的项目启动
 
 项目目录结构：
+```
 ----src/main/java
     |
      ------------groupId.artifactId
@@ -24,3 +25,4 @@
     ----------------logback.xml
 pom
 gitignore
+```
